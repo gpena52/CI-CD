@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "gpena52/CI-CD",
+  "pipelineDirectory": "CI-CD",
+  "workspaceDirectory": "CI-CD\\CI-CD",
+  "repositories": {
+    "gpena52/CI-CD": {
+      "repositoryPath": "CI-CD\\CI-CD",
+      "lastRunOn": "03/26/2026 22:59:31 -04:00"
+    }
+  },
+  "lastRunOn": "03/26/2026 22:59:31 -04:00"
+}

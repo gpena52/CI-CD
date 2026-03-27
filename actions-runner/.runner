@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "OWNER",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus25.actions.githubusercontent.com/Z54ecuYZSqJBXOsqkjwUYAS6n2bnpn4M8z01TxDDoipZ1n2jnL/",
+  "gitHubUrl": "https://github.com/gpena52/CI-CD",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
